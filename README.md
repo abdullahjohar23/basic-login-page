@@ -14,19 +14,4 @@ A simple, modern **Login and Signup UI** built with **Flutter**. This project sh
 
 | Login Screen | Signup Screen |
 |--------------|---------------|
-| ![Login](assets/login.jpg) | ![Signup](assets/signup.jpg) |
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed
-- A code editor like VS Code or Android Studio
-- An Android/iOS emulator or physical device
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/flutter_login_signup_ui.git
-   cd flutter_login_signup_ui
+| ![Login](https://github.com/user-attachments/assets/e509900a-ec74-4175-833a-3b89a8bf6c9c) | ![Signup](https://github.com/user-attachments/assets/0ff1de6b-fc50-4c77-991a-77d0ce37ce63) |
