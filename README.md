@@ -1,16 +1,32 @@
-# flutter_and_firebase
+# Flutter Login & Signup UI
 
-A new Flutter project.
+A simple, modern **Login and Signup UI** built with **Flutter**. This project showcases clean UI design with a responsive layout that works across different device sizes.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Beautiful login and signup screens
+- Scrollable layout to handle keyboard and overflow issues
+- Custom image headers with rounded corners
+- Dark theme with amber highlight
+- Designed for mobile responsiveness
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Login Screen | Signup Screen |
+|--------------|---------------|
+| ![Login](assets/login.jpg) | ![Signup](assets/signup.jpg) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- A code editor like VS Code or Android Studio
+- An Android/iOS emulator or physical device
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/flutter_login_signup_ui.git
+   cd flutter_login_signup_ui
